@@ -42,6 +42,10 @@ As part of the Google Cybersecurity Professional Certificate, I conducted a secu
 - Security Controls Evaluation
 - Documentation and Reporting
 - Cybersecurity Governance
+  
+## Note
+
+This project reflects my analysis at the time of completion. Some findings or assessments may differ from how I would approach the audit today as I continue to develop my cybersecurity knowledge and practical experience. I have intentionally preserved the original work to document my learning progress.
 
 ## Outcome
 
