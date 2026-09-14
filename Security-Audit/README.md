@@ -2,7 +2,7 @@
 
 ## Overview
 
-As part of the Google Cybersecurity Professional Certificate, I conducted a security audit of Botium Toys to evaluate existing security controls, identify risks, and assess compliance with industry best practices. 【1-97964c】
+As part of the Google Cybersecurity Professional Certificate, I conducted a security audit of Botium Toys to evaluate existing security controls, identify risks, and assess compliance with industry best practices. 
 
 ## What I Did
 
