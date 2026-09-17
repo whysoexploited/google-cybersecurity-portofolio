@@ -113,6 +113,7 @@ Developed Python scripts to automate basic cybersecurity and administrative task
 
 In addition to certification training, I actively develop practical cybersecurity skills through TryHackMe labs and personal projects focused on security monitoring, network analysis, threat detection, and incident investigation.
 
+TryHackMe: https://tryhackme.com/p/cristi.baltag15
 
 ## Contact
 
